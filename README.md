@@ -8,6 +8,6 @@ The script parameter_estimation_simulated_annealing.nb includes parameter estima
 
 References
 1. Kim DW, Chang C, Chen X, Doran A, Gaudreault F, Wager T, DeMarco GJ, Kim JK, Systems approach reveals photosensitivity and PER2 level as determinants of clock-modulator efficacy (Under review for Mol Syst Biol)
-2. Kim JK, Forger DB, Marconi M, Wood D, Doran A, Wager T, Chang C, Walton KM (2013) Modeling and validating chronic pharmacological manipulation of circadian rhythms. CPT PSP 2: e57
+2. Kim JK, Forger DB, Marconi M, Wood D, Doran A, Wager T, Chang C, Walton KM (2013) Modeling and validating chronic pharmacological manipulation of circadian rhythms. CPT:PSP 2: e57
 3. Gonzalez OR, Kuper C, Jung K, Naval PC, Mendoza E (2007) Parameter estimation using Simulated Annealing for S-system models of biochemical networks. Bioinformatics 23: 480-486
 
